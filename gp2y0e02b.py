@@ -27,7 +27,7 @@ Implementation Notes
 
 from micropython import const
 from adafruit_bus_device import i2c_device
-from adafruit_register.i2c_struct import ROUnaryStruct, UnaryStruct
+from adafruit_register.i2c_struct import UnaryStruct
 
 try:
     from busio import I2C
@@ -76,7 +76,7 @@ class GP2Y0E02B:
         distance = gpy.distance
 
     """
-    _device_id = ROUnaryStruct(_REG_WHOAMI, "B")
+
     _write_address = UnaryStruct(0x80, "B")
     _read_address = UnaryStruct(0x81, "H")
 
