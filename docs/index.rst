@@ -25,11 +25,3 @@ Table of Contents
     :caption: Other Links
 
     Download from GitHub <https://github.com/jposada202020/CircuitPython_GP2Y0E02B/releases/latest>
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

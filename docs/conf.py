@@ -100,9 +100,7 @@ add_function_parentheses = True
 pygments_style = "sphinx"
 
 todo_include_todos = False
-
-todo_emit_warnings = True
-
+todo_emit_warnings = False
 napoleon_numpy_docstring = False
 
 # -- Options for HTML output ----------------------------------------------

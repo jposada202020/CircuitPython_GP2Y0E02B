@@ -6,6 +6,14 @@ Introduction
     :target: https://circuitpython-gp2y0e02b.readthedocs.io/
     :alt: Documentation Status
 
+.. image:: https://img.shields.io/pypi/v/circuitpython-gp2y0e02b.svg
+    :alt: latest version on PyPI
+    :target: https://pypi.python.org/pypi/circuitpython-gp2y0e02b
+
+.. image:: https://static.pepy.tech/personalized-badge/circuitpython-gp2y0e02b?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Pypi%20Downloads
+    :alt: Total PyPI downloads
+    :target: https://pepy.tech/project/circuitpython-gp2y0e02b
+
 
 .. image:: https://github.com/jposada202020/CircuitPython_GP2Y0E02B/workflows/Build%20CI/badge.svg
     :target: https://github.com/jposada202020/CircuitPython_GP2Y0E02B/actions
@@ -55,34 +63,3 @@ To install in a virtual environment in your current project:
     python3 -m venv .venv
     source .env/bin/activate
     pip3 install circuitpython-gp2y0e02b
-
-Installing to a Connected CircuitPython Device with Circup
-==========================================================
-
-Make sure that you have ``circup`` installed in your Python environment.
-Install it with the following command if necessary:
-
-.. code-block:: shell
-
-    pip3 install circup
-
-With ``circup`` installed and your CircuitPython device connected use the
-following command to install:
-
-.. code-block:: shell
-
-    circup install gp2y0e02b
-
-Or the following command to update an existing version:
-
-.. code-block:: shell
-
-    circup update
-
-
-Contributing
-============
-
-Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/jposada202020/CircuitPython_GP2Y0E02B/blob/HEAD/CODE_OF_CONDUCT.md>`_
-before contributing to help this project stay welcoming.
