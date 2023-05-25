@@ -15,7 +15,7 @@ description = "Driver for the GP2Y0E02B distance sensor"
 version = "0.0.0+auto.0"
 readme = "README.rst"
 authors = [
-    {name = "Jose D. Montoya", email = "gpy@mailmeto.mozmail.com"}
+    {name = "Jose D. Montoya", email = "gpy@mozmail.com"}
 ]
 urls = {Homepage = "https://github.com/jposada202020/CircuitPython_GP2Y0E02B"}
 keywords = [
