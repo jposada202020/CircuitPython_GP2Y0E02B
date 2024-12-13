@@ -5,7 +5,7 @@
 
 ⛔️ DEPRECATED CircuitPython_GP2Y0E02B 
 ======================================
-
+This is no longer supported
 
 .. image:: https://readthedocs.org/projects/circuitpython-gp2y0e02b/badge/?version=latest
     :target: https://circuitpython-gp2y0e02b.readthedocs.io/
@@ -14,20 +14,6 @@
 .. image:: https://img.shields.io/pypi/v/circuitpython-gp2y0e02b.svg
     :alt: latest version on PyPI
     :target: https://pypi.python.org/pypi/circuitpython-gp2y0e02b
-
-.. image:: https://static.pepy.tech/personalized-badge/circuitpython-gp2y0e02b?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Pypi%20Downloads
-    :alt: Total PyPI downloads
-    :target: https://pepy.tech/project/circuitpython-gp2y0e02b
-
-
-.. image:: https://github.com/jposada202020/CircuitPython_GP2Y0E02B/workflows/Build%20CI/badge.svg
-    :target: https://github.com/jposada202020/CircuitPython_GP2Y0E02B/actions
-    :alt: Build Status
-
-
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/psf/black
-    :alt: Code Style: Black
 
 Driver for the GP2Y0E02B distance sensor
 
