@@ -1,5 +1,10 @@
-Introduction
-============
+.. image:: http://unmaintained.tech/badge.svg
+  :target: http://unmaintained.tech
+  :alt: No Maintenance Intended
+
+
+⛔️ DEPRECATED CircuitPython_GP2Y0E02B 
+======================================
 
 
 .. image:: https://readthedocs.org/projects/circuitpython-gp2y0e02b/badge/?version=latest
